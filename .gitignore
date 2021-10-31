@@ -1,0 +1,15 @@
+# node_modules
+/node_modules
+
+# parcel bundler files
+/.parcel-cache
+/dist
+
+# OS files
+.DS_Store
+
+# VS Code
+/.vscode
+
+# env keys to access service
+.env
